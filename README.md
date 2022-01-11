@@ -37,4 +37,5 @@ No need for any registration of user. By default, you can store the users in loc
 ## Expectations:
 - The candidate is at free-will to implement the given assignment either as a console application or as a RESTful API application.
 - Please use best practices everywhere.
+- Unit tests are mandatory to be wirtten.
 - In case of RESTful API application, swagger documentation is not mandatory, but if provided, it would be helpful.
