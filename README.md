@@ -4,7 +4,6 @@ The assignment mimics the basic operation of a Jewelry Store.
 • Backend in .Net/ASP.NET Core and Database can be local DB / In memory
 
 ## Requirement:
-We require that the candidate should implement at least two functionalities to handle the Jewelry Store operations.
 </br>The description of the expected functionalities are as follows:
 - **Login** - It allows only the pre-registered users to login. It takes two mandatory parameters which are of string type - (i) Username (ii) Password
 - **Calculate total price** - This method (or endpoint) will be protected. Until and unless the user has not logged-in, he/she should not be able to access this method (or endpoint).
