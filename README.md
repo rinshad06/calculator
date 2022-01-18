@@ -1,7 +1,9 @@
 # Discount-Calculator
 
 The assignment mimics the basic operation of a Jewelry Store.
-• Backend in .Net/ASP.NET Core and Database can be local DB / In memory
+- The candidate is at free-will to implement the given assignment either as a console application or as a RESTful API application.
+- The solution can be .Net/.NET Core and Database can be local DB / In memory
+
 
 ## Requirement:
 </br>The description of the expected functionalities are as follows:
